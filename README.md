@@ -1,4 +1,4 @@
-# AI-Enhanced Digital Twin for Transformer Monitoring and Predictive Maintenance
+# Digital Twin for Transformer 
 
 ## Overview
 
